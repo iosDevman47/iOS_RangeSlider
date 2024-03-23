@@ -41,14 +41,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0F85490C2BAD988E008EB426 /* IntervalSlider */ = {
+		0F85490C2BAD988E008EB426 /* RangeSlider */ = {
 			isa = PBXGroup;
 			children = (
 				0F89EEB82BA9AF4900C75E66 /* RangeSlider.swift */,
 				0F85490D2BAD9928008EB426 /* RangeSliderThumb.swift */,
 				0F85490F2BAD9949008EB426 /* RangeSliderTrackLayer.swift */,
 			);
-			path = IntervalSlider;
+			path = RangeSlider;
 			sourceTree = "<group>";
 		};
 		0F89EE982BA99CAC00C75E66 = {
@@ -70,7 +70,7 @@
 		0F89EEA32BA99CAC00C75E66 /* DoubleSidedSlider */ = {
 			isa = PBXGroup;
 			children = (
-				0F85490C2BAD988E008EB426 /* IntervalSlider */,
+				0F85490C2BAD988E008EB426 /* RangeSlider */,
 				0F89EEA42BA99CAC00C75E66 /* AppDelegate.swift */,
 				0F89EEA62BA99CAC00C75E66 /* SceneDelegate.swift */,
 				0F89EEA82BA99CAC00C75E66 /* ViewController.swift */,
